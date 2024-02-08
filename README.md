@@ -9,5 +9,8 @@
 and its done , you dont need to create a .txt file it will create automatically
 
 
+warning:sometimes it get error because if ur firewall or antivirus
+
+
 
 
