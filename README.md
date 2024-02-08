@@ -6,4 +6,8 @@
 4th step=  then open terminal of vs code and download "pynput " library  with = py -m pip install pynput
 5th step= then paste the code and save file 
 
+and its done , you dont need to create a .txt file it will create automatically
+
+
+
 
